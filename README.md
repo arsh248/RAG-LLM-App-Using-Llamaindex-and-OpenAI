@@ -16,8 +16,8 @@ This project demonstrates how to use retrieval-augmented generation (RAG) with L
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/arsh248/RAG-LLM-App-Using-Llamaindex-and-OpenAI
+    cd RAG-LLM-App-Using-Llamaindex-and-OpenAI
     ```
 
 2. Create and activate a virtual environment:
